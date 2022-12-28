@@ -1,0 +1,165 @@
+@media screen and (max-width: 390px) {
+  #container{
+ width: 390px;
+ }
+ .link{
+  display: none;
+ }
+ #sign{
+  display: none;
+ }
+ #bodysection1{
+  height: 400px;
+ }
+#phonehero{
+  display: none;
+}
+h1{
+  font-size: 50px;
+}
+.button{
+  width: 350px;
+}
+#bodyslider{
+  
+}
+#bodysection2{
+width: 300px;
+
+}
+#coinlink{
+  width: 300px;
+}
+#coinlogo{
+  display: flex;
+  margin-bottom: 20px;
+}
+#constructedtable{
+  width: 320px;
+  margin-left: 10px;
+}
+h2{
+  font-size: 40px;
+}
+#inputbox{
+  display: none;
+}
+.coinpair{
+  display: none;
+}
+.price{
+  display: none;
+}
+.change{
+  display: none;
+}
+.buybutton{
+  display: none;
+}
+.trade{
+  display: none;
+}
+#constructedtable{
+  width: 360px;
+}
+#bodysection3{
+height: 1350px;
+ }
+#buysell{
+  width: 350px;
+  margin-left: 20px;
+}
+.body3para{
+  margin-left: 20px;
+  margin-right: 40px;
+}
+.subtext{
+  width: 350px;
+  margin-left: 20px;
+  
+}
+.body3para1{
+  margin-right: 30px;
+}
+.subtext1{
+  width: 350px;
+  margin-left: 20px;
+  float: left;
+}
+#bodysection4{
+  width: 390px;
+}
+.h2section4{
+  font-size: 38px;
+}
+.pigpara{
+  width: 350px;
+}
+#bodysection5{
+  height: 1200px;
+  width: 390px;
+}
+.section4text1{
+  width: 300px;
+  margin: 0;
+  display: block;
+  padding: 10px;
+}
+.section4image{
+  width: 40px;
+}
+.para5{
+  width: 350px;
+}
+#bodysection6{
+display: block;
+height: 750px;
+width: 390px;
+padding-top: 0;
+
+}
+.sec6text{
+  width: 330px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 0;
+  text-align:center;
+  font-size: 15px;
+}
+#pinkphone{
+  width: 340px;
+  align-items: center;
+  padding-right: 20px;
+  height: 400px;
+}
+.head6{
+  font-size: 40px;
+}
+.store{
+ margin-left: 60px;
+}
+#bodysection7{
+  display: block;
+  background-color: white;
+}
+.body7text{
+  width: 350px;
+}
+#footer{
+  height: 2500px;
+}
+#alltext{
+  width: 350px;
+}
+
+
+
+
+
+
+
+
+
+
+
+}
