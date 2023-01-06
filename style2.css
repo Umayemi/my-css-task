@@ -1,165 +1,181 @@
 @media screen and (max-width: 960px) {
+html,body{
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+}
   #container{
- width: 390px;
+ width: 100%;
+ background-color: rgb(255, 255, 255);
+ margin-right: 0;
  }
  .link{
   display: none;
  }
- #sign{
+ #logo{
+width: 30%;
+margin-right: 0;
+margin-left: 0;
+margin-top: 25px;
+
+}
+#sign{
   display: none;
- }
- #bodysection1{
-  height: 400px;
- }
+}
+#start{
+  margin-left: 20%;
+  width: 35%;
+  height: 10px;
+  font-size: 10px; 
+}
+#toggles{
+  width: 10%;
+  display: block;
+  margin-left: 15%;
+  height: 10px ;
+  margin-top: 35px;
+}
 #phonehero{
   display: none;
 }
-h1{
-  font-size: 50px;
-}
 .button{
-  width: 350px;
-}
+  width: 95%;
+ }
+ h1{
+   padding-top: 20px;
+   font-size: 60px;
+   margin-bottom: 0; 
+   width: 95%;
+ }
+ #bodysection1{
+  padding-bottom: 200px;
+ }
 #bodyslider{
-  
+  width: 100%;
+  height: 150px;
+  margin-top: -180px;
 }
-#bodysection2{
-width: 300px;
-
-}
-#coinlink{
-  width: 300px;
-}
-#coinlogo{
-  display: flex;
-  margin-bottom: 20px;
-}
-#constructedtable{
-  width: 320px;
-  margin-left: 10px;
-}
-h2{
-  font-size: 40px;
-}
-#inputbox{
-  display: none;
+.parabody1{
+  width: 90%;
 }
 .coinpair{
-  display: none;
-}
-.price{
   display: none;
 }
 .change{
   display: none;
 }
-.buybutton{
-  display: none;
-}
 .trade{
   display: none;
 }
+.price{
+  display: none;
+}
+.buybutton{
+  display: none;
+}
+.tableprice-head{
+  border-top-right-radius: 40px;
+}
 #constructedtable{
-  width: 360px;
+  width: 90%;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+#bodysection2{
+}
+h2{
+  font-size: 40px;
+}
+#coinlink{
+  font-size: 12px;
+}
+#inputbox{
+  display: none;
 }
 #bodysection3{
-height: 1350px;
- }
+  height: 1200px;
+}
 #buysell{
-  width: 350px;
+  width: 90%;
   margin-left: 20px;
+  margin-top: 40px;
 }
 .body3para{
   margin-left: 20px;
-  margin-right: 40px;
+  width: 90%;
 }
 .subtext{
-  width: 350px;
-  margin-left: 20px;
-  
-}
-.body3para1{
-  margin-right: 30px;
+  width: 90%;
+  margin-left:20px ;
 }
 .subtext1{
-  width: 350px;
+  width:90%;
   margin-left: 20px;
   float: left;
 }
 #bodysection4{
-  width: 390px;
-}
-.h2section4{
-  font-size: 38px;
+ width: 100%;
 }
 .pigpara{
-  width: 350px;
+  width: 90%;
 }
 #bodysection5{
-  height: 1200px;
-  width: 390px;
-}
-.section4text1{
-  width: 300px;
-  margin: 0;
+  margin-top: 50px;
   display: block;
-  padding: 10px;
+  width: 100%;
+  height: 850px;
 }
 .section4image{
   width: 40px;
 }
 .para5{
-  width: 350px;
+  font-size: 15px;
+  width: 90%;
+}
+.section4text1{
+  margin-left: 20px;
+}
+#pinkphone{
+ width: 100%;
+ height: 100%;
+ background-color: rgb(192, 78, 157);
+}
+.pink{
+  width: 100%;
 }
 #bodysection6{
-display: block;
-height: 750px;
-width: 390px;
-padding-top: 0;
+  display: block;
+  width: 100%;
+  margin-top: 0px;
 
 }
 .sec6text{
-  width: 330px;
-  padding-left: 30px;
-  padding-right: 30px;
-  padding-top: 0;
-  text-align:center;
-  font-size: 15px;
-}
-#pinkphone{
-  width: 340px;
-  align-items: center;
-  padding-right: 20px;
-  height: 400px;
+  width: 85%;
+  text-align: center;
+  margin-left: 20px;
+  margin-top: -50px;
+  
 }
 .head6{
-  font-size: 40px;
-}
-.store{
- margin-left: 60px;
+  font-size: 45px;
 }
 #bodysection7{
-  display: block;
-  background-color: white;
+  width: 100%;
+  height: 1250px;
 }
 .body7text{
-  width: 350px;
+display: block;
+width: 93%;
+padding-right: 20px;
 }
 #footer{
-  height: 2500px;
+  width: 100%;
+  height: 2650px;
 }
 #alltext{
-  width: 350px;
+  width: 90%;
+  margin-top: 0;
 }
-
-
-
-
-
-
-
-
-
-
-
 }
