@@ -318,7 +318,7 @@ h4{
 }
 #footer{
   background-color: rgb(6, 6, 97);
-    height: 950px;
+  height: 1200px;
     clear: both;
     border-radius: 5px;
     color: white;
@@ -329,20 +329,35 @@ h4{
   width: 220px;
   float: left;
   margin-right: 65px;
-  margin-left: 20px;
+  margin-left: 15px;
   text-align: left;
   padding-top: 70px;
 }
 .foottext{
   width: 100px;
-  height: 490px;
   float: left;
   margin-right: 60px;
   text-align: left;
   padding-top: 40px;
- padding-bottom: 80px;
-  
+ padding-bottom: 80px; 
 }
+.foottext-resources{
+  width: 100px;
+  float: left;
+  margin-right: 60px;
+  text-align: left;
+  padding-top: 40px;
+ padding-bottom: 80px; 
+}
+.foottext-company{
+  width: 100px;
+  float: left;
+  margin-right: 60px;
+  text-align: left;
+  padding-top: 40px;
+ padding-bottom: 80px; 
+}
+
 .footlist{
   padding: 10px;
 }
