@@ -2,9 +2,6 @@ body{
   margin: 0;
   background-color:rgb(255, 255, 255);
 top: 0;
-
-  
-  
 }
 #container{
   padding: 10px 10px;
@@ -253,10 +250,14 @@ h5{
 }
 #bodysection5{
   height: 450px;
-  background-color:#eaebe4;
+  background-color:#f3f2f2e8;
   margin-top: 20px;
   padding-top: 30px;
 
+}
+#quotation{
+  color:rgb(192, 78, 157);
+  font-size: 150px;
 }
 .section4text1{
   float: left;
@@ -301,7 +302,7 @@ h5{
 }
 
 #bodysection7{
-  background-color: rgba(0, 0, 0, 0.142);
+  background-color: rgb(255, 255, 255);
   padding-top: 50px;
   height: 470px;
 }
@@ -318,13 +319,14 @@ h4{
 }
 #footer{
   background-color: rgb(6, 6, 97);
-  height: 1200px;
+  height: 1300px;
     clear: both;
     border-radius: 5px;
     color: white;
     font-size: 20px;
     text-align: center;
 }
+
 .footsubtext{
   width: 220px;
   float: left;
@@ -333,8 +335,17 @@ h4{
   text-align: left;
   padding-top: 70px;
 }
+.socialmedia{
+  color:rgb(6, 6, 97) ;
+  background-color: white;
+  display: inline;
+  margin-right: 10px;
+  padding: 5px;
+  border-radius: 40px;
+  margin-top: 20px;
+}
 .foottext{
-  width: 100px;
+  width: 120px;
   float: left;
   margin-right: 60px;
   text-align: left;
